@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Pico_Backend
     url: https://pico.cloudlan.space
-#  - name: Pico_Img
-#    url: https://pico.cloudlan.space/media/f3cd1b310a55b3198859224805a98226cffc177d-320.jpg
+  - name: Pico_Img
+    url: https://pico.cloudlan.space/media/f3cd1b310a55b3198859224805a98226cffc177d-320.jpg
 #  - name: Pico_News
 #    url: https://news.ycombinator.com
 #  - name: Test Broken Site
